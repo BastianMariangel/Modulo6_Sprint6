@@ -18,21 +18,21 @@
   Github : https://github.com/BastianMariangel/Modulo6_Sprint6
   
 • Roberto Rivas 
-  Github :
+  Github : https://github.com/RobertoRivasL/Sprint6-Modulo-6
 
 • Iván Mieres 
   Github : https://github.com/iamamieres/Sprint_Modulo_6
   
 • Patricio Bonnin 
-  Github :
+  Github : https://github.com/patriciobonnin/M6_-_Sprint_Final_Modulo_6_Desarrollo_de_Aplicaciones_JEE_con_Sprint_Framework
   
 • Angélica Romero
-  Github :
+  Github : https://github.com/AngeRom/FinalSprint_Modulo6
   
 ## Información de Archivos del proyecto
 
-• Si desea conectarse a la base de datos del proyecto recuerde cambiar la contraseña y Usuario de MySQL
-en el archivo application.yml en la ruta: 
+• Si desea conectarse a la base de datos del proyecto recuerde cambiar la contraseña y Usuario de MySQL en las variables de entorno
+con el archivo application.yml en la ruta: 
 
 src\main\java\resources\application.yml
 
